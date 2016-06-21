@@ -9,7 +9,10 @@ It is Equivalent to C and C# and it is invented in year 2016. (Cslash)  is  inve
 
  It  is   most Advanced  than  CDollar  language.
 
-Advantages: ----------- 
+CSLASH(C/)   is  the  part  of  Jdollar part2.
+
+Advantages: 
+----------- 
 
 
 It is Equivalent to C/C++ and C#. 
