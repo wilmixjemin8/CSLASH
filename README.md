@@ -5,7 +5,7 @@
 
 CSLASH(C/) is a High level programming language like C invented in JAS  by wilmix jemin j.
 
-It is Equivalent to C and C# and it is invented in year 2016. (Cslash)  is  invented  in JAS technology.
+It is Equivalent to C and C# and it is invented in year 2016. (Cslash)  is  invented  in JAS P.L
 
  It  is   most Advanced  than  CDollar  language.
 
@@ -26,7 +26,7 @@ It is a 100 pure oops language.
 
  It also used in wide applications like creation of bills ,forms, reports..
 
- It is also used in Software and cloudcomputing field..
+ It is also used in Software and remote  webaplication field..
 
 
 
